@@ -6,8 +6,9 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img src="WechatPicture.jpeg" align="center"></p>
+    <p><img src="WechatPicture.jpg" align="center"></p>
 </center>
+
 
 。。。。。先占位
 
